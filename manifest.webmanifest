@@ -1,0 +1,19 @@
+{
+  "name": "CompTIA A+ Core 2 Study Platform",
+  "short_name": "A+ Core 2",
+  "description": "Free, open-source certification exam prep \u2014 part of The Certification Launchpad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1016",
+  "theme_color": "#e2553b",
+  "icons": [
+    {
+      "src": "assets/img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
